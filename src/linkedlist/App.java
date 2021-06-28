@@ -6,7 +6,9 @@ public class App {
 		// TODO Auto-generated method stub
 		Node a =new Node();
 		
-		if(a) {
+		if(a.data==0) {
+		
+			System.out.println("node here");
 			
 		}
 
